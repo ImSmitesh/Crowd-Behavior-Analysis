@@ -1,6 +1,6 @@
 # 🧠 Crowd Behavior Analysis – Violence Detection in Large Gatherings
 
-![crowd-behavior](https://img.shields.io/badge/deep%20learning-CNN%20%2B%20LSTM-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![status](https://img.shields.io/badge/status-Bachelor's%20Project-success)
+![crowd-behavior](https://img.shields.io/badge/deep%20learning-CNN%20%2B%20LSTM-blue)
 
 ## 📌 Project Overview
 
